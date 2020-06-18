@@ -9,6 +9,8 @@ FroobitJS WebGL dynamic layers with 3d matrix transform
 
 With FroobitJS - [https://www.npmjs.com/package/froobit](https://www.npmjs.com/package/froobit)
 
+P5js - [https://github.com/processing/p5.js](https://github.com/processing/p5.js)
+
 Vector and matrix and geometry with Sylvester - [http://sylvester.jcoglan.com/](http://sylvester.jcoglan.com/)
 
 **QR detection** 
@@ -22,7 +24,8 @@ Tracking QR code markers with Optical Flow (Iterative Lucas-Kanade method with p
 Using JsFeat library - [https://github.com/inspirit/jsfeat](https://github.com/inspirit/jsfeat)
 
 ## Live demo
-// TODO
+
+[Check it out here](https://ognjenvucko.github.io/froobit-ar/)
 
 ## License
 
