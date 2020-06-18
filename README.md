@@ -16,7 +16,7 @@ Tracking QR code markers with Optical Flow (Iterative Lucas-Kanade method with p
 Using JsFeat library - [https://github.com/inspirit/jsfeat](https://github.com/inspirit/jsfeat)
 
 ## Live demo
-
+// TODO
 ## License
 
  
