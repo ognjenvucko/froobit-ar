@@ -2,7 +2,7 @@
 
 Augmented reality QR code image replacement written in JavaScript.
 
-![AR example image](https://i.imgur.com/A16nAVu.gif)
+![AR example image](https://i.imgur.com/OSEvawJ.gif)
 
 **Rendering** 
 FroobitJS WebGL dynamic layers with 3d matrix transform
