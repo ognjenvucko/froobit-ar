@@ -1,0 +1,36 @@
+
+{
+    "parser": "babel-eslint",
+    "env": {
+        "browser": true,
+        "node": true,
+        "mocha": true
+    },
+    "rules": {
+        "arrow-body-style": [
+            "error",
+            "always"
+        ],
+        "no-tabs": 0,
+        "class-methods-use-this": 0,
+        "no-plusplus": 0,
+        "eol-last": 0,
+        "max-len": 0,
+        "prefer-const": 0,
+        "no-console": 0,
+        "import/prefer-default-export": 0,
+        "import/no-extraneous-dependencies": 0,
+		"linebreak-style": 0,
+        "indent": ["error", "tab",  { "SwitchCase": 1 }],
+        "array-bracket-spacing": ["error", "always"],
+        "no-mixed-operators": 0,
+        "react/jsx-uses-react": "error",   
+        "react/jsx-uses-vars": "error" 
+    },
+    "plugins": [
+        "react"
+    ],
+    "extends": [
+        "airbnb-base"
+    ]
+}

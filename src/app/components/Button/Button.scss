@@ -1,0 +1,15 @@
+.button {
+    outline: 0 none;
+    border: none;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    cursor: pointer;
+    border-radius: 4px;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 18px;
+    padding: 14px 20px;
+    &--primary {
+        background-color: #4285f4;
+    }
+}
